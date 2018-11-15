@@ -1,0 +1,1 @@
+xcopy d:\simutgw_slu\Simutgw_SolutionPack\shared_src E:\ProgramWorkstation\simutgw\shared_src /s
